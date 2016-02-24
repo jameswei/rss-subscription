@@ -44,3 +44,4 @@ Any update is welcome :)
 38. [我自然](http://www.yankay.com) 颜开的博客，目前就职于EMC
 39. [庄周梦蝶](http://blog.fnil.net/) 庄晓丹Dennis，目前就职于LeanCloud
 40. [阮一峰的网络日志](http://www.ruanyifeng.com/blog/) 阮一峰的Blog
+41. [Todd.log](http://www.cnblogs.com/weidagang2046/) 『a place to keep my thoughts on programming』
