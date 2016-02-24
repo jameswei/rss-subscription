@@ -1,6 +1,6 @@
 # rss-subscription
 
-This is my personal collection of RSS subscriptions, most of them are about technicals.
+This is a collection of my personal RSS subscriptions, most of them are about the technology, software and system.
 
 Any update is welcome :)
 
