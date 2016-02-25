@@ -45,7 +45,8 @@ Any update is welcome :)
 39. [捣乱](http://daoluan.net/blog) Not only tech
 40. [我自然](http://www.yankay.com) 颜开的博客，目前就职于EMC
 41. [庄周梦蝶](http://blog.fnil.net/) 庄晓丹Dennis，目前就职于LeanCloud
-42. [阮一峰的网络日志](http://www.ruanyifeng.com/blog/) 阮一峰的Blog
-43. [Todd.log](http://www.cnblogs.com/weidagang2046/) 『a place to keep my thoughts on programming』
-44. [stackshare.io](http://stackshare.io/posts) 『Discover and discuss the best software tools and services』
-45. [Autopsy](http://autopsy.io/) 『Lessons from failed startups』
+42. [粉丝日志](http://blog.fens.me/) 张丹，『跨界的IT博客，包括Hadoop，R，RHadoop，Nodejs，AngularJS，KVM，NoSQL，IT金融』
+43. [阮一峰的网络日志](http://www.ruanyifeng.com/blog/) 阮一峰的Blog
+44. [Todd.log](http://www.cnblogs.com/weidagang2046/) 『a place to keep my thoughts on programming』
+45. [stackshare.io](http://stackshare.io/posts) 『Discover and discuss the best software tools and services』
+46. [Autopsy](http://autopsy.io/) 『Lessons from failed startups』
