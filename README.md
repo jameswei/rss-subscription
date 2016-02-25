@@ -38,7 +38,7 @@ Any update is welcome :)
 32. [写点什么](http://hongjiang.info) 『有关JVM，Scala及后端架构』
 33. [午夜咖啡](http://jolestar.com/) Grouk CTO王渊命的Blog，工具控
 34. [唐巧的技术博客](http://blog.devtang.com/) 唐巧，all about iOS
-35. [花钱的年华](http://calvin1978.blogcn.com) 江南白衣，音乐、文学、现代诗及SpringSide
+35. [花钱的年华](http://calvin1978.blogcn.com) 肖桦（江南白衣），音乐、文学、现代诗及SpringSide
 36. [火丁笔记](http://huoding.com) 操作系统、网络
 37. [鸟哥](http://www.laruence.com) 鸟哥，惠新宸的Blog
 38. [鸟窝](http://colobu.com/) all about Golang
