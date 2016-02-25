@@ -7,13 +7,13 @@ Any update is welcome :)
 1. [1byte.io](http://1byte.io/) LeanCloud CEO江宏博士的Blog
 2. [All Things Distributed](http://www.allthingsdistributed.com/) Werner Vogels，Amazon CTO，内容主要围绕『how to build distributed and robust system』
 3. [后端技术 by Tim Yang](http://timyang.net/) 杨卫华老师的Blog『关于架构、互联网技术、分布式、服务化、NoSQL等』
-4. [Axb的自我修养](blog.2baxb.me) ~~泰迪~~ 秦迪大师的Blog，重度代码洁癖&重度工具控
+4. [Axb的自我修养](http://blog.2baxb.me) ~~泰迪~~ 秦迪大师的Blog，重度代码洁癖&重度工具控
 5. [biasedbit.com](http://biasedbit.com/) 前Droplr的第1号工程师
 6. [Growth Engineer](http://www.phodal.com/blog/) Phodal Huang，目前就职于Thoughtworks，同时也是InfoQ社区编辑
 7. [BUAAZP.](http://blog.buaa.us/) 『招牌疯子』，开源软件作者，代表作zimg
 8. [Cloud, Big Data and Mobile](http://harish11g.blogspot.com/) Harish Ganesan，8kmiles CTO
 9. [Tech blog, innit](http://blog.denevell.org/) 主要是围绕Android等移动开发
-10. [divan's blog](divan.github.io) 主要围绕Golang开发
+10. [divan's blog](http://divan.github.io) 主要围绕Golang开发
 11. [Felix Geisendörfer](http://felixge.de/) Felix Geisendörfer, a Golang programmer
 12. [Garan no dou](http://blog.ibireme.com) iOS, Design, ACG
 13. [Gleasy团队博客](http://rdc.gleasy.com) Gleasy的团队Blog
