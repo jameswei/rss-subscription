@@ -4,16 +4,18 @@ This is a collection of my personal RSS subscriptions, most of them are about th
 
 Any update is welcome :)
 
+#### Personal Blog
+
 1. [1byte.io](http://1byte.io/) LeanCloud CEO江宏博士的Blog
 2. [All Things Distributed](http://www.allthingsdistributed.com/) Werner Vogels，Amazon CTO，内容主要围绕『how to build distributed and robust system』
 3. [后端技术 by Tim Yang](http://timyang.net/) 杨卫华老师的Blog『关于架构、互联网技术、分布式、服务化、NoSQL等』
-4. [Axb的自我修养](blog.2baxb.me) ~~泰迪~~ 秦迪大师的Blog，重度代码洁癖&重度工具控
+4. [Axb的自我修养](http://blog.2baxb.me) ~~泰迪~~ 秦迪大师的Blog，重度代码洁癖&重度工具控
 5. [biasedbit.com](http://biasedbit.com/) 前Droplr的第1号工程师
 6. [Growth Engineer](http://www.phodal.com/blog/) Phodal Huang，目前就职于Thoughtworks，同时也是InfoQ社区编辑
 7. [BUAAZP.](http://blog.buaa.us/) 『招牌疯子』，开源软件作者，代表作zimg
 8. [Cloud, Big Data and Mobile](http://harish11g.blogspot.com/) Harish Ganesan，8kmiles CTO
 9. [Tech blog, innit](http://blog.denevell.org/) 主要是围绕Android等移动开发
-10. [divan's blog](divan.github.io) 主要围绕Golang开发
+10. [divan's blog](http://divan.github.io) 主要围绕Golang开发
 11. [Felix Geisendörfer](http://felixge.de/) Felix Geisendörfer, a Golang programmer
 12. [Garan no dou](http://blog.ibireme.com) iOS, Design, ACG
 13. [Gleasy团队博客](http://rdc.gleasy.com) Gleasy的团队Blog
@@ -50,3 +52,37 @@ Any update is welcome :)
 44. [Todd.log](http://www.cnblogs.com/weidagang2046/) 『a place to keep my thoughts on programming』
 45. [stackshare.io](http://stackshare.io/posts) 『Discover and discuss the best software tools and services』
 46. [Autopsy](http://autopsy.io/) 『Lessons from failed startups』
+
+#### Team/Corporate/Startup Blog
+
+1. [Linkedin Engineering](https://engineering.linkedin.com/)
+
+2. [Engineering at Quora](https://engineering.quora.com/)
+
+3. [Pinterest engineering blog](https://engineering.pinterest.com/)
+
+4. [Instagram Engineering](http://instagram-engineering.tumblr.com/) <u>hosted on Tumblr, deprecated</u>
+
+5. [Instagram Engineering](https://engineering.instagram.com/)
+
+6. [Airbnb Nerds][http://nerds.airbnb.com](http://nerds.airbnb.com/)
+
+7. [Atlassian Developer](http://blogs.atlassian.com/blog-cat/developer)
+
+8. [Evernote Tech Blog](https://blog.evernote.com/tech/)
+
+9. [Facebook Engineering](https://www.facebook.com/Engineering)
+
+10. [Github Engineering](http://githubengineering.com/)
+
+11.  [Heroku Blog](https://engineering.heroku.com/blogs)
+
+12. [Netflix Tech Blog](http://techblog.netflix.com/)
+
+13. [Tumblr Engineering](http://engineering.tumblr.com/)
+
+14. [Twitter Engineering Blog](https://blog.twitter.com/engineering)
+
+15. [Code as Craft](https://codeascraft.com/) Etsy Engineering Blog
+
+16. [Fog Creek](http://blog.fogcreek.com) Trello Engineering Blog
