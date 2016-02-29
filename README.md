@@ -53,6 +53,7 @@ Any update is welcome :)
 45. [stackshare.io](http://stackshare.io/posts) 『Discover and discuss the best software tools and services』
 46. [Autopsy](http://autopsy.io/) 『Lessons from failed startups』
 
+
 #### Team/Corporate/Startup Blog
 
 1. [Linkedin Engineering](https://engineering.linkedin.com/)
