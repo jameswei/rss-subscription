@@ -66,7 +66,7 @@ Any update is welcome :)
 
 5. [Instagram Engineering](https://engineering.instagram.com/)
 
-6. [Airbnb Nerds][http://nerds.airbnb.com](http://nerds.airbnb.com/)
+6. [Airbnb Nerds](http://nerds.airbnb.com/)
 
 7. [Atlassian Developer](http://blogs.atlassian.com/blog-cat/developer)
 
